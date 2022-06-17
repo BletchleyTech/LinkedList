@@ -1,0 +1,22 @@
+{
+  "name": "@bletchley-tech/linkedlist",
+  "version": "1.0.0",
+  "description": "A JavaScript-native implementation of the Linked List data structure",
+  "main": "LinkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BletchleyTech/LinkedList.git"
+  },
+  "author": "Bletchley Technological Solutions Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BletchleyTech/LinkedList/issues"
+  },
+  "homepage": "https://github.com/BletchleyTech/LinkedList#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
